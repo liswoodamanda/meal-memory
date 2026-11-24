@@ -1,0 +1,5 @@
+backbone,label_smoothing,selected_epoch,val_loss,val_accuracy,run
+Frozen,0.0,4,0.6539394435882568,0.802,efficientnet_frozen_control_v1
+Frozen,0.1,1,0.6626429867744446,0.804,efficientnet_frozen_smooth_v1
+Unfrozen last two blocks,0.0,3,0.625739861647288,0.8193333333333334,efficientnet_lr_3e5_v1
+Unfrozen last two blocks,0.1,0,0.668552133401235,0.8013333333333333,efficientnet_unfrozen_smooth_v1

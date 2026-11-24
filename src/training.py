@@ -66,6 +66,7 @@ def train_experiment(
     results_path,
     classes,
     config,
+    train_criterion=None,
 ):
     """Train a fresh experiment, preserving its best and latest states."""
     run_dir = Path(run_dir)
@@ -134,7 +135,11 @@ def train_experiment(
         )
 
         train = run_epoch(
-            model, train_loader, criterion, device, optimizer
+            model,
+            train_loader,
+            criterion if train_criterion is None else train_criterion,
+            device,
+            optimizer,
         )
         val = run_epoch(model, val_loader, criterion, device)
 

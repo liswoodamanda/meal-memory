@@ -1,0 +1,3 @@
+approach,selected_epoch,val_loss,val_accuracy
+No augmentation,3,0.625739861647288,0.8193333333333334
+With augmentation,5,0.6077029291788737,0.8193333333333334
