@@ -1,0 +1,53 @@
+{
+  "seed": 386,
+  "classes": [
+    "apple_pie",
+    "caesar_salad",
+    "cheesecake",
+    "chocolate_cake",
+    "french_toast",
+    "fried_rice",
+    "grilled_cheese_sandwich",
+    "hamburger",
+    "lasagna",
+    "macaroni_and_cheese",
+    "omelette",
+    "pancakes",
+    "pizza",
+    "ramen",
+    "risotto",
+    "spaghetti_bolognese",
+    "spaghetti_carbonara",
+    "sushi",
+    "tacos",
+    "waffles"
+  ],
+  "class_to_idx": {
+    "apple_pie": 0,
+    "caesar_salad": 1,
+    "cheesecake": 2,
+    "chocolate_cake": 3,
+    "french_toast": 4,
+    "fried_rice": 5,
+    "grilled_cheese_sandwich": 6,
+    "hamburger": 7,
+    "lasagna": 8,
+    "macaroni_and_cheese": 9,
+    "omelette": 10,
+    "pancakes": 11,
+    "pizza": 12,
+    "ramen": 13,
+    "risotto": 14,
+    "spaghetti_bolognese": 15,
+    "spaghetti_carbonara": 16,
+    "sushi": 17,
+    "tacos": 18,
+    "waffles": 19
+  },
+  "images_per_class": {
+    "train": 600,
+    "validation": 75,
+    "calibration": 75,
+    "test": 250
+  }
+}
