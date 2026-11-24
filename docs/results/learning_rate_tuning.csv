@@ -1,0 +1,4 @@
+run,backbone_lr,classifier_lr,selected_epoch,val_loss,val_accuracy
+efficientnet_lr_3e5_v1,3e-05,0.0001,3,0.625739861647288,0.8193333333333334
+efficientnet_finetuned_v1,1e-05,0.0001,5,0.6386025995413462,0.816
+efficientnet_lr_3e6_v1,3e-06,0.0001,3,0.6467996725241343,0.808

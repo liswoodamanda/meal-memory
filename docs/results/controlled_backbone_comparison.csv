@@ -1,0 +1,4 @@
+approach,selected_epoch,val_loss,val_accuracy
+Original frozen baseline,5,0.668552133401235,0.8013333333333333
+Frozen continuation,4,0.6539394435882568,0.802
+Fine-tuned last two blocks,5,0.6386025995413462,0.816
