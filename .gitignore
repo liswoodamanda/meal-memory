@@ -221,3 +221,29 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Meal Memory: downloaded datasets and generated data
+/data/raw/
+/data/processed/
+/data/food-101/
+/data/recipe_index/
+
+# Model weights and training checkpoints
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+/checkpoints/
+
+# Personal meal photos and application databases
+/uploads/
+/storage/
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.sqlite3-*
+
+# Local credentials
+.env.*
+!.env.example
