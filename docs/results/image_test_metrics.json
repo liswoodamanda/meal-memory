@@ -1,0 +1,13 @@
+{
+  "test_images": 5000,
+  "top1_accuracy": 0.865,
+  "top3_accuracy": 0.9706,
+  "macro_f1": 0.8648596236828598,
+  "cross_entropy": 0.43685662746429443,
+  "threshold": 0.5836667418479919,
+  "accepted_images": 4371,
+  "review_images": 629,
+  "coverage": 0.8742,
+  "accepted_accuracy": 0.9231297185998627,
+  "review_group_accuracy": 0.4610492845786963
+}
