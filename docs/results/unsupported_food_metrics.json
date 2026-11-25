@@ -1,0 +1,10 @@
+{
+  "seed": 387,
+  "unsupported_categories": 81,
+  "images_per_category": 20,
+  "total_images": 1620,
+  "fixed_threshold": 0.5836667418479919,
+  "unsupported_acceptance_rate": 0.5487654320987654,
+  "review_rate": 0.45123456790123456,
+  "mean_max_softmax_score": 0.634763240814209
+}
