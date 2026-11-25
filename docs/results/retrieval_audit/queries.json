@@ -1,0 +1,52 @@
+[
+  {
+    "query_id": "q02",
+    "class_name": "apple_pie",
+    "query": "apple pie with cinnamon"
+  },
+  {
+    "query_id": "q07",
+    "class_name": "chocolate_cake",
+    "query": "a chocolate layer cake"
+  },
+  {
+    "query_id": "q10",
+    "class_name": "french_toast",
+    "query": "French toast with berries"
+  },
+  {
+    "query_id": "q18",
+    "class_name": "lasagna",
+    "query": "lasagna with spinach and cheese"
+  },
+  {
+    "query_id": "q20",
+    "class_name": "macaroni_and_cheese",
+    "query": "macaroni and cheese with a breadcrumb topping"
+  },
+  {
+    "query_id": "q25",
+    "class_name": "pizza",
+    "query": "pizza with tomato sauce and mozzarella"
+  },
+  {
+    "query_id": "q28",
+    "class_name": "ramen",
+    "query": "ramen with chicken and vegetables"
+  },
+  {
+    "query_id": "q29",
+    "class_name": "risotto",
+    "query": "a creamy rice risotto"
+  },
+  {
+    "query_id": "q33",
+    "class_name": "spaghetti_carbonara",
+    "query": "spaghetti carbonara with egg and bacon"
+  },
+  {
+    "query_id": "q39",
+    "class_name": "waffles",
+    "query": "breakfast waffles made in a waffle iron"
+  }
+]

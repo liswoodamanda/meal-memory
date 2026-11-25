@@ -1,0 +1,14 @@
+{
+  "seed": 386,
+  "per_class_target": 200,
+  "source_file": "full_dataset_complete.csv",
+  "source_bytes": 2294981083,
+  "counts": {
+    "rows_scanned": 2231142,
+    "title_candidates": 151561,
+    "unique_valid_candidates": 151229,
+    "invalid_or_insufficient_content": 203,
+    "duplicate_title_ingredients": 129
+  },
+  "saved_unique_recipes": 3998
+}

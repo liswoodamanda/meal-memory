@@ -1,0 +1,19 @@
+{
+  "title_exclusions": {
+    "apple_pie": "\\b(?:paninis?|sandwich(?:es)?|smoothies?|milkshakes?|filling|cocktails?)\\b",
+    "caesar_salad": "\\b(?:dressings?|wraps?|sandwich(?:es)?|stuffed mushrooms?|crazy bread|potato|pasta|green beans?)\\b",
+    "cheesecake": "\\b(?:cheesecake factory|bubble tea|smoothies?|milkshakes?|dips?)\\b",
+    "grilled_cheese_sandwich": "\\b(?:burgers?|soups?|dips?)\\b",
+    "hamburger": "\\b(?:soups?|casseroles?|chow mein|stroganoff|helpers?|dips?)\\b",
+    "pizza": "\\b(?:fruit|dessert|cookie|cookies|dip|dips|casseroles?|burgers?|grilled cheese|soups?|salads?|dough|sauce|seasoning)\\b",
+    "ramen": "\\b(?:salads?|slaw|coleslaw|stroganoff|to serve with)\\b",
+    "risotto": "\\bstuffed\\b",
+    "spaghetti_bolognese": "\\b(?:lasagn[ae]|pizza|arancine|arancini)\\b",
+    "spaghetti_carbonara": "\\b(?:ramen|mac and cheese|macaroni and cheese)\\b",
+    "sushi": "\\b(?:dessert|s mores|smores|candy|chocolate|salads?|vinegar)\\b",
+    "tacos": "\\b(?:salads?|soups?|dips?|bowls?|casseroles?|burgers?|rice|bake)\\b",
+    "waffles": "\\bsandwich(?:es)?\\b"
+  },
+  "caesar_requires_word_salad": true,
+  "status": "development_heuristics"
+}
